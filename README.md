@@ -5,7 +5,7 @@
 
 - 🎯 I’m focusing on **Improving my skills** 
 
-- 🌱 I’m currently learning **Javascript for now, while also diving deeper into AI/ML.**
+- 🌱 I’m currently learning **MERN for now, while also diving deeper into AI/ML.**
 
 - 👯 Let's Learn Together & Looking for learning partners. [telegram](https://t.me/+NXns_O1mHxEyODM1)
 
